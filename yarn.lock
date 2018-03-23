@@ -2299,7 +2299,7 @@ copy-descriptor@^0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/copy-descriptor/-/copy-descriptor-0.1.1.tgz#676f6eb3c39997c2ee1ac3a924fd6124748f578d"
 
-copy-to-clipboard@^3.0.8:
+copy-to-clipboard@3.0.8:
   version "3.0.8"
   resolved "https://registry.yarnpkg.com/copy-to-clipboard/-/copy-to-clipboard-3.0.8.tgz#f4e82f4a8830dce4666b7eb8ded0c9bcc313aba9"
   dependencies:
@@ -9237,9 +9237,9 @@ vue-i18n@7.4.2:
   version "7.4.2"
   resolved "https://registry.yarnpkg.com/vue-i18n/-/vue-i18n-7.4.2.tgz#ef954f80898bb3609f132f77d51a7053379e03b2"
 
-vue-loader@14.1.1:
-  version "14.1.1"
-  resolved "https://registry.yarnpkg.com/vue-loader/-/vue-loader-14.1.1.tgz#331f197fcea790d6b8662c29b850806e7eb29342"
+vue-loader@14.2.2:
+  version "14.2.2"
+  resolved "https://registry.yarnpkg.com/vue-loader/-/vue-loader-14.2.2.tgz#c8cf3c2e29b6fb2ee595248a2aa6005038a125b3"
   dependencies:
     consolidate "^0.14.0"
     hash-sum "^1.0.2"
